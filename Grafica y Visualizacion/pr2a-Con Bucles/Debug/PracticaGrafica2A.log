@@ -1,0 +1,21 @@
+﻿Compilación iniciada a las 03/10/2016 18:54:08.
+     1>Proyecto "C:\Users\CEUJA\Desktop\Practicas Grafica\pr2a\PracticaGrafica2A.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Practica_Grafica_2A.vcxproj, PracticaGrafica2A.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt codigo\igvEscena3D.cpp codigo\igvInterfaz.cpp codigo\pr2a.cpp
+         igvInterfaz.cpp
+         Generando código...
+         Compilando...
+         pr2a.cpp
+         igvEscena3D.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CEUJA\Desktop\Practicas Grafica\pr2a\Debug\PracticaGrafica2A.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\CEUJA\Desktop\Practicas Grafica\pr2a\Debug\PracticaGrafica2A.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CEUJA\Desktop\Practicas Grafica\pr2a\Debug\PracticaGrafica2A.lib" /MACHINE:X86 Debug\igvEscena3D.obj
+         Debug\igvInterfaz.obj
+         Debug\pr2a.obj
+         PracticaGrafica2A.vcxproj -> C:\Users\CEUJA\Desktop\Practicas Grafica\pr2a\Debug\PracticaGrafica2A.exe
+     1>Compilación del proyecto terminada "C:\Users\CEUJA\Desktop\Practicas Grafica\pr2a\PracticaGrafica2A.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.59
